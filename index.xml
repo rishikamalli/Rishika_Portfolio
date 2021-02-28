@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Rishika Malli</title>
+    <link>https://rishikamalli.github.io/Rishika_Portfolio/</link>
+    <description>Recent content in Project Portfolio on Rishika Malli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 11:14:48 -0400</lastBuildDate><atom:link href="https://rishikamalli.github.io/Rishika_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Purchase based on Social Network Ads</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 28 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/post/project-4/</guid>
+      <description>User details such as Gender, Age, and Salary used to classify the purchase of an item presented in Social Network Ads. Predict the future outcomes of purchase given the above details, for targeted marketing and recommendations, using Logistical Classification in R Programming Language. Visualization plot - Green and Tomato Red BG denote classification among Successful Purchase and not respectively based on training set. Highlight Green and Cherry Red points denote the prediction of user&amp;rsquo;s purchase based on test set.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Factors that determine Admission</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 11 Dec 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/post/project-3/</guid>
+      <description>Cleansed the data and analyzed the factors that influence the admission of a student into a college from historical data, and determined the key drivers - Scores, LOR, CGPA and Research Performed Regression to find factors majorly affecting admission and also predict the admission of a particular student based on these key factors, using R programming language and Machine learning Optimized Linear and Logistical Regression to reach the best model    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin and its Real Time Applications</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/publication/publication-1/</link>
+      <pubDate>Thu, 01 Aug 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/publication/publication-1/</guid>
+      <description>Abstract: In this paper the working design of Bitcoin transaction in peer-to-peer network is explained, the security features of Bitcoin including circulation and alteration in the previous Bitcoin transaction is illustrated. Results on the future application of Bitcoin and the possibility of replacement of Bitcoin are discussed. The important factors that determine the future of Bitcoin circulation, price, and scope in future are analyzed which only prove that Bitcoins are here to stay.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: SmartCom for Differently-Abled</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 26 Jun 2018 11:00:59 -0400</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/post/project-2/</guid>
+      <description>A real-time wearable device developed using cost-effective technologies that enable the deaf-blind user to communicate using Malossi language to a common man in the vicinity using GSM Module The Touch gestures is captured and processed into normal text message and speech, and further displayed on an Android Application Technologies used – Python, Java, Raspberry Pi, Sensor Module, Gloves, PuTTY, and Android Application Awarded best Major Outgoing project at Open Day, 2018 BMSIT&amp;amp;M Reviewed &amp;amp; Published at IEEE - 2018 International Conference    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: NOTE-IT</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Jun 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/post/project-1/</guid>
+      <description>E-Learning Web Application developed as a substitute for email data sharing of classroom resources - notes and assignments. Teachers can upload the question papers, assignments, and other learning material; Students can share notes and access the uploaded material Technologies used were HTML, CSS, PHP, SQL, Database, and Android Application    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rishikamalli.github.io/Rishika_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rishikamalli.github.io/Rishika_Portfolio/contact/</guid>
+      <description>You can follow me on these social media platforms
+   Platform URL     LinkedIn: https://www.linkedin.com/in/rishikamalli   Github: https://github.com/RishikaMalli    </description>
+    </item>
+    
+  </channel>
+</rss>
